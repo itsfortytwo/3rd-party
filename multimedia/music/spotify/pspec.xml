@@ -34,7 +34,16 @@
     </Package>
 
     <History>
-        <Update release="46">
+       
+       <Update release="47">
+            <Date>17-04-2019</Date>
+            <Version>1.1.0.237</Version>
+            <Comment>Update to 1.1.0.237</Comment>
+            <Name>Robin Kroonen</Name>
+            <Email>r.kro@pm.me</Email>
+       </Update> 
+
+       <Update release="46">
             <Date>10-25-2018</Date>
             <Version>1.0.92.390</Version>
             <Comment>Update to 1.0.92.390</Comment>
